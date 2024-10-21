@@ -1,0 +1,5 @@
+1.wap to design a class account using a inheritance and the static that shows all function of bank (withdraw and deposites)
+2.wap to find the factorial of given number using recursion
+3.wap to design a class using abstract method and classes
+4.wap that implents multiple interfaces
+5.
